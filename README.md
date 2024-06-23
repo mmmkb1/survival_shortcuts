@@ -3,7 +3,7 @@
 
 | name                                    | description                | android studio       | vscode             |
 | --------------------------------------- | -------------------------- | -------------------- | ------------------ |
-| Generate                                | 원하는 코드 생성하기                | `Ctrl` + `Enter`         | `Cmd` + `N`            |
+| Generate                                | 원하는 코드 생성하기                | `Ctrl` + `Enter`         | `Cmd` + `.`            |
 | Show Intentions Actions and Quick Fixes | 오류나 경고에 수정 사항 및 코드 리팩토링 제공 | `Opt` + `Enter`          |                    |
 | See Hierarchy                           | 클래스의 상속관계 보기               | `Ctrl` + `H`             |                    |
 | See File Structure                      | 해당 파일의 전체 구조 보기            | `Cmd` + `F12`            |                    |
