@@ -14,3 +14,4 @@
 | Recent Locatioins                       | 최근 수정한 부분을 코드로 보기          | `Cmd` + `Shift` + `E`      |                    |
 | Move Tab Left or Right                  | 왼쪽 or 오른쪽 탭으로 이동           | `Cmd` + `Shift` + `[` or `]` | `Cmd` + `Opt` + `←` or `→` |
 | Duplicate Entire Line                   | 전체 줄 복제하기                  | `Cmd` + `D`              |                    |
+| Rename              | 이름 변경하기               | `Shift` + `F6`              |                    |
