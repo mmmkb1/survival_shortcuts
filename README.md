@@ -4,7 +4,7 @@
 | name                                    | description                | android studio       | vscode             |
 | --------------------------------------- | -------------------------- | -------------------- | ------------------ |
 | Generate                                | 원하는 코드 생성하기                | `Ctrl` + `Enter` or `Cmd` + `N`| `Cmd` + `.`            |
-| Show Intentions Actions and Quick Fixes | 오류나 경고에 수정 사항 및 코드 리팩토링 제공 | `Opt` + `Enter`          |                    |
+| Show Intentions Actions and Quick Fixes | 오류나 경고에 수정 사항 및 코드 리팩토링 제공 | `Opt` + `Enter`          |  `Cmd` + `.`                   |
 | See Hierarchy                           | 클래스의 상속관계 보기               | `Ctrl` + `H`             |                    |
 | See File Structure                      | 해당 파일의 전체 구조 보기            | `Cmd` + `F12`            |                    |
 | Quick documentation                     | 빠른 문서 보기                   | `F1`                   |                    |
@@ -14,6 +14,6 @@
 | Recent Locatioins                       | 최근 수정한 부분을 코드로 보기          | `Cmd` + `Shift` + `E`      |                    |
 | Move Tab Left or Right                  | 왼쪽 or 오른쪽 탭으로 이동           | `Cmd` + `Shift` + `[` or `]` | `Cmd` + `Opt` + `←` or `→` |
 | Duplicate Entire Line                   | 전체 줄 복제하기                  | `Cmd` + `D`              |                    |
-| Rename              | 이름 변경하기               | `Shift` + `F6`              |                    |
+| Rename              | 이름 변경하기               | `Shift` + `F6`              |      `F2`              |
 | Fold Code              | 코드 접기            |               | `Cmd` + `Opt` + `[`|
 | Unfold Code              | 코드 펼치기            |               | `Cmd` + `Opt` + `]`|
