@@ -11,6 +11,7 @@
 | Go to Definitioin                       | 해당 클래스의 정의 보기              | `Ctrl` + `B`             | `F12`                |
 | Reformat Code                           | 코드 리포맷팅 하기                 | `Cmd` + `Opt` + `L`        | `Cmd` +`Opt` + `L`       |
 | Recent Files                            | 최근 파일들 보기                  | `Cmd` + `E`              |                    |
+| Recent Folders                            | 최근 폴더들 보기                  |             |         `Ctrl` + `R`           |
 | Recent Locatioins                       | 최근 수정한 부분을 코드로 보기          | `Cmd` + `Shift` + `E`      |                    |
 | Move Tab Left or Right                  | 왼쪽 or 오른쪽 탭으로 이동           | `Cmd` + `Shift` + `[` or `]` | `Cmd` + `Opt` + `←` or `→` |
 | Duplicate Entire Line                   | 전체 줄 복제하기                  | `Cmd` + `D`              |                    |
